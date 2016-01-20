@@ -1,0 +1,1 @@
+To confirm your email, please click here: http://{{host}}/verify/{{key}}

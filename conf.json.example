@@ -1,0 +1,16 @@
+{
+	"port": 8087,
+	"host": "account.example.com",
+	"logo": "https://example.com/logo.png",
+	"superusers": {
+		"some.ip.address": "some key"
+	},
+	"mail": {
+		"user": "username@example.com",
+		"password": "",
+		"host": "smtp.example.com",
+		"port": 465,
+		"ssl": true,
+		"from": "noreply@example.com"
+	}
+}
